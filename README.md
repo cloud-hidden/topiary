@@ -1,5 +1,7 @@
 # Topiary
 
+A Crow script for pruning generative sequences.
+
 ### <ins>Overview</ins>
 Topiary converts consecutive repetitions of the same pitch class into rests. 
 
